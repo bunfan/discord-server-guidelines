@@ -36,6 +36,8 @@ If you see something against the rules or something that makes you feel unsafe, 
 - Do not post or stream content containing extreme fetishes.
 ```
 
+      Depending on the offense, Bans will be issued after you get one warning. 
+
 _Some additional DNP rules apply._
 
 Discord ToS: https://discord.com/terms
