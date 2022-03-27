@@ -1,5 +1,7 @@
 # Official BunFan Games Discord Server Rules
 
+![Welcome](https://user-images.githubusercontent.com/42328288/160304679-2bb20c78-4e46-4c1d-8d30-6457d065e160.png)
+
 Here you can talk with the developers or other people who are interested in what we do!
 If you see something against the rules or something that makes you feel unsafe, let the staff know immediately.
 
